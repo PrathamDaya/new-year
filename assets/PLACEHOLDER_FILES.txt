@@ -1,0 +1,30 @@
+📁 ASSETS FOLDER - ADD YOUR PHOTOS AND MUSIC HERE
+
+🖼️ PHOTOS:
+Add your photos here and name them exactly:
+- image1.jpg (or .png, .gif, .webp)
+- image2.jpg
+- image3.jpg
+- image4.jpg
+- image5.jpg
+- image6.jpg
+- image7.jpg
+- image8.jpg
+- image9.jpg
+
+🎵 MUSIC:
+Add your songs here and name them exactly:
+- song1.mp3
+- song2.mp3
+- song3.mp3
+- song4.mp3
+- song5.mp3
+
+💡 TIPS:
+1. Photos will be shown in the gallery when clicked
+2. Songs will play when you click on music drawers
+3. Supported photo formats: JPG, PNG, GIF, WebP
+4. Recommended music format: MP3 (best compatibility)
+5. File names are case-sensitive - use lowercase
+
+❤️ Make this special for your Chikoo!
